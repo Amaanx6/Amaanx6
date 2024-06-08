@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence, machine learning, and blockchain technology.
 - 🌱 I’m currently learning advanced Python programming and data science.
 - 💞️ I’m looking to collaborate on on open-source AI projects and innovative tech startups.
-- 📫 How to reach me: You can email me at mubashiruddinmd@gmail,com or connect with me on LinkedIn at linkedin.com/in/Md Mubashiruddin
+- 📫 How to reach me: You can email me at mubashiruddinmd@gmail,com or connect with me on LinkedIn at https://www.linkedin.com/in/md-mubashiruddin-711698296/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built a fully functional robot using only recycled materials!
 
