@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on on open-source AI projects and innovative tech startups.
 - 📫 How to reach me: You can email me at mubashiruddinmd@gmail,com or connect with me on LinkedIn at https://www.linkedin.com/in/md-mubashiruddin-711698296/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once built a fully functional robot using only recycled materials!
+
 
 <!---
 Amaanx6/Amaanx6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
