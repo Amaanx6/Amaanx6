@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Mubashiruddin</h1>
-<h3 align="center">- I’m interested in artificial intelligence, machine learning, and blockchain technology. - I’m currently learning advanced Python programming and data science. - I’m looking to collaborate on on open-source AI projects and innovative tech startups.</h3>
+<h3 align="center">- I am a full-stack developer specializing in the MERN stack, with a strong foundation in Python and C. My expertise lies in crafting robust full-stack solutions using modern technologies, particularly focusing on dynamic and scalable web applications.
+
+My technical skill set includes:
+
+Front-end Development: Proficient in HTML, CSS, and JavaScript, along with popular frameworks like React.js.
+Back-end Development: Skilled in Node.js, building APIs, and server-side applications.
+Database Management: Hands-on experience with PostgreSQL and MySQL, optimizing databases for real-world use cases.</h3>
 
 - 📫 How to reach me **mubashiruddinmd@gmail.com**
 
