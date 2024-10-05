@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mubashiruddin</h1>
-<h3 align="center">- I am a full-stack developer specializing in the MERN stack, with a strong foundation in Python and C. My expertise lies in crafting robust full-stack solutions using modern technologies, particularly focusing on dynamic and scalable web applications.
+<h3 align="center">- I'm a full-stack developer specializing in the MERN stack, with a solid foundation in Python and C. I create dynamic web applications using HTML, CSS, JavaScript, Node.js, and React.js.
 
-My technical skill set includes:
-
-Front-end Development: Proficient in HTML, CSS, and JavaScript, along with popular frameworks like React.js.
-Back-end Development: Skilled in Node.js, building APIs, and server-side applications.
-Database Management: Hands-on experience with PostgreSQL and MySQL, optimizing databases for real-world use cases.</h3>
+I have experience with PostgreSQL and MySQL for database management and a keen interest in Web3 and decentralized applications. Currently pursuing a B.Tech in Information Technology, I'm eager to tackle complex problems and deliver impactful solutions.</h3>
 
 - 📫 How to reach me **mubashiruddinmd@gmail.com**
 
