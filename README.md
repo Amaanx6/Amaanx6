@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mubashiruddin</h1>
-<h3 align="center">-I'm a full-stack developer specializing in the MERN stack, with a solid foundation in Python and C. <br> I create dynamic web applications using HTML, CSS, JavaScript, Node.js, and React.js.<br> I have experience with PostgreSQL and MySQL for database management and a keen interest in Web3 and decentralized applications.</h3>
+<h3 align="center">-I'm a full-stack developer specializing in the MERN stack, with a solid foundation in Python and C.</h3>
 
 - 👨‍💻 All of my projects are available at ([https://mubashir-verse.vercel.app](https://mubashir-verse.vercel.app/)/)
 
