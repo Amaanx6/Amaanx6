@@ -67,8 +67,8 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB</td>
   </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaanx6&show_icons=true&theme=dark&locale=en&layout=compact" alt="amaanx6" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaanx6&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanx6&theme=dark&hide_border=true" height="160"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaanx6&show_icons=true&theme=dark&locale=en" alt="amaanx6" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaanx6&theme=dark" alt="amaanx6" /></p>
