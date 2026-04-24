@@ -34,7 +34,7 @@ I'm an Information Technology undergrad at Lords Institute (Class of '27), speci
 
 ---
 
-### 💼 Professional Experience
+### 💼Experience
 
 **Data Research Analyst | Concentrix** *(Nov 2024 – Jan 2025)*
 * Analyzed datasets of 50,000+ records using Python and Excel to extract actionable business insights.
