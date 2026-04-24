@@ -4,6 +4,14 @@
   I'm an Information Technology undergrad, specializing in the MERN stack, Next.js, and AI-integrated systems. Whether I'm optimizing data pipelines or grinding through DSA on LeetCode, I'm focused on building scalable, performance-driven software. I’m currently looking for internships where I can ship production code and learn from the best in the industry.
 </p>
 
+<p align="center">
+  <a href="https://mubashir-verse.vercel.app">Portfolio</a> · 
+  <a href="https://linkedin.com/in/md-mubashiruddin">LinkedIn</a> · 
+  <a href="https://www.leetcode.com/mubashirx">LeetCode</a> · 
+  <a href="https://auth.geeksforgeeks.org/user/mubashirx">GFG</a> · 
+  <a href="mailto:mubashiruddinmd@gmail.com">Email</a>
+</p>
+
 ---
 
 ### 🛠️ What I work with
@@ -65,6 +73,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amaanx6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanx6&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanx6&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=6" height="165"/>
 </p>
 
@@ -82,8 +91,3 @@
 - 🧠 Solving problems on **LeetCode** to sharpen DSA skills.
 - 📖 Exploring advanced **multi-agent LLM orchestration**.
 - 🎯 Open to internships — Full-stack, Next.js, or AI roles
----
-
-### Let's talk
-
-[Portfolio](https://mubashir-verse.vercel.app) · [LinkedIn](https://linkedin.com/in/md-mubashiruddin) · [Email](mailto:mubashiruddinmd@gmail.com)
