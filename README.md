@@ -1,6 +1,8 @@
-## Hey, I'm Mubashir 👋
+<h1 align="center">Hey, I'm Mubashir 👋</h1>
 
-I'm an Information Technology undergrad at Lords Institute (Class of '27), specializing in the MERN stack, Next.js, and AI-integrated systems. Whether I'm optimizing data pipelines or grinding through DSA on LeetCode, I'm focused on building scalable, performance-driven software. I’m currently looking for internships where I can ship production code and learn from the best in the industry.
+<p align="center">
+  I'm an Information Technology undergrad, specializing in the MERN stack, Next.js, and AI-integrated systems. Whether I'm optimizing data pipelines or grinding through DSA on LeetCode, I'm focused on building scalable, performance-driven software. I’m currently looking for internships where I can ship production code and learn from the best in the industry.
+</p>
 
 ---
 
