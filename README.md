@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mubashir-verse.vercel.app">Portfolio</a> · 
+  <a href="https://www.mubashirbuilds.me">Portfolio</a> · 
   <a href="https://linkedin.com/in/md-mubashiruddin">LinkedIn</a> · 
   <a href="https://www.leetcode.com/mubashirx">LeetCode</a> · 
   <a href="https://auth.geeksforgeeks.org/user/mubashirx">GFG</a> · 
